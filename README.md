@@ -82,3 +82,13 @@ Practical JAMstack, [https://link.springer.com/book/10.1007/978-1-4842-6177-4](h
 Modern Web Development with JAMsatck, [https://www.theseus.fi/bitstream/handle/10024/341469/Modern%20Web%20Development%20with%20JAMstack_Edit%20Orosz_Thesis.pdf?sequence=2&isAllowed=y](https://www.theseus.fi/bitstream/handle/10024/341469/Modern%20Web%20Development%20with%20JAMstack_Edit%20Orosz_Thesis.pdf?sequence=2&isAllowed=y)
 
 The Majesty of Vue.js2, [https://liteonqa.liteon.com/app/storage/document/document/vuejs2-sample.pdf](https://liteonqa.liteon.com/app/storage/document/document/vuejs2-sample.pdf)
+
+Maintainability, Rick Kazman, Philip Bianco, James Ivers, John Klein, [https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=650480](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=650480)
+
+Software Architecture Publications, Software Engineering Institute, [https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=513817](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=513817)
+
+JAMSTACK FOR WEB PROJECTS, Scrivito, [https://cdn0.scrvt.com/6d226c03f32a8ea4e8ae8e5cbe6c6e2c/7f49e3094f685d07/3690e79b3271/Jamstack.for.Web.Projects.WhitePaper.EN.pdf](https://cdn0.scrvt.com/6d226c03f32a8ea4e8ae8e5cbe6c6e2c/7f49e3094f685d07/3690e79b3271/Jamstack.for.Web.Projects.WhitePaper.EN.pdf)
+
+[https://link.springer.com/book/10.1007/978-1-4842-6177-4](https://link.springer.com/book/10.1007/978-1-4842-6177-4)
+
+What Is JAMstack All About?, Frank Zammetti, [https://link.springer.com/chapter/10.1007/978-1-4842-6177-4_1](https://link.springer.com/chapter/10.1007/978-1-4842-6177-4_1)
